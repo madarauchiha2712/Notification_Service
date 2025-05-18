@@ -38,7 +38,7 @@ For the purpose of this demo, the following shortcuts have been implemented:
 2. Install dependencies:
    ```bash
    pip install -r requirements.txt
-   #   Needed only when a new package is added as the virtual env present in repo already has all dependencies installed.
+   # Needed only during the fist time and when a new package is added as the virtual env present in repo already has all dependencies installed.
    ```
 
 3. Start Flask application:
