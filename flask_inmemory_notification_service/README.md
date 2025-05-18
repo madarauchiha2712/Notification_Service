@@ -31,6 +31,7 @@ For the purpose of this demo, the following shortcuts have been implemented:
 1. Set up the env:
    ```bash
    cd in-memory-notification-service
+   python3 -m venv .venv
    source ./.venv/bin/activate
    ```
 
